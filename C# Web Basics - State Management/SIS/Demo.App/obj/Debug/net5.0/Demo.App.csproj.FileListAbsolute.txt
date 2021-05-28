@@ -1,0 +1,44 @@
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\Demo.App.exe
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\Views\Home\Home.html
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\Demo.App.deps.json
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\Demo.App.runtimeconfig.json
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\Demo.App.runtimeconfig.dev.json
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\Demo.App.dll
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\ref\Demo.App.dll
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\Demo.App.pdb
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\SIS.HTTP.dll
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\SIS.WebServer.dll
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\SIS.HTTP.pdb
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\bin\Debug\net5.0\SIS.WebServer.pdb
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\obj\Debug\net5.0\Demo.App.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\obj\Debug\net5.0\Demo.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\obj\Debug\net5.0\Demo.App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\obj\Debug\net5.0\Demo.App.AssemblyInfo.cs
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\obj\Debug\net5.0\Demo.App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\obj\Debug\net5.0\Demo.App.csproj.CopyComplete
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\obj\Debug\net5.0\Demo.App.dll
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\obj\Debug\net5.0\ref\Demo.App.dll
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\obj\Debug\net5.0\Demo.App.pdb
+C:\Users\User\Desktop\CSharp WebBasics Async Processing\SIS\Demo.App\obj\Debug\net5.0\Demo.App.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\Demo.App.exe
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\Views\Home\Home.html
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\Demo.App.deps.json
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\Demo.App.runtimeconfig.json
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\Demo.App.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\Demo.App.dll
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\ref\Demo.App.dll
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\Demo.App.pdb
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\SIS.HTTP.dll
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\SIS.WebServer.dll
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\SIS.HTTP.pdb
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\bin\Debug\net5.0\SIS.WebServer.pdb
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\obj\Debug\net5.0\Demo.App.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\obj\Debug\net5.0\Demo.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\obj\Debug\net5.0\Demo.App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\obj\Debug\net5.0\Demo.App.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\obj\Debug\net5.0\Demo.App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\obj\Debug\net5.0\Demo.App.csproj.CopyComplete
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\obj\Debug\net5.0\Demo.App.dll
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\obj\Debug\net5.0\ref\Demo.App.dll
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\obj\Debug\net5.0\Demo.App.pdb
+C:\Users\User\Desktop\C# Web Basics - State Management\SIS\Demo.App\obj\Debug\net5.0\Demo.App.genruntimeconfig.cache
